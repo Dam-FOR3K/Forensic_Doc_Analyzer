@@ -1,0 +1,10 @@
+﻿# Forensic Doc Analyzer — Core Dependencies
+streamlit>=1.30.0
+Pillow>=10.0.0
+lxml>=4.9.0
+extract-msg>=0.40.0
+yara-python>=4.3.0
+cryptography>=41.0.0
+oletools>=0.60.0
+pyHanko>=0.20.0
+reportlab>=4.0.0
